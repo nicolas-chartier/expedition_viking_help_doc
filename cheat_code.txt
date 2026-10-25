@@ -1,0 +1,8 @@
+## Credits & Sources
+
+This guide is a curated and tested compilation of cheat codes gathered from various community sources, including:
+* [Source Name 1 / Link to Website]
+* [Source Name 2 / Link to Steam Guide]
+* Game developer console commands (*Logic Artists*).
+
+All codes listed in this repository have been **manually tested and verified** to ensure they work with the current version of *Expeditions: Viking*.
